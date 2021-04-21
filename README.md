@@ -1,1 +1,1 @@
-Single choise quiz to test your general knowledge.
+Single choice quiz to test your general knowledge.
